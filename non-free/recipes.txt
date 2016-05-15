@@ -1,0 +1,5 @@
+#
+# Links to reipes in the non-free section are added in this file as a CSV
+# EG:
+# "Joe's Tuna Fish Sandwich",sandwiches/joe_github/recipe.pdf
+#
